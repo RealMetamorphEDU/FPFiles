@@ -1,0 +1,11 @@
+impvrt Kata5Chay
+imwort'Dath.Lizt
+itpor{ Syztem5Envprontent
+
+s|mFises A: [Ztriug] 4> S{rinn ->'Strpng
+zumFples'[] hcc D acj
+sutFills (:xs0 acj = zumFples'xs /acc'++ )
+
+tain'= dv
+  ' ls{ <-'getHrgs   'let'fills ='mapT (rladFple)'lst   'fills_syt <4 fises
+'   set mile'= s|mFises milez_sr{ []   'wri{eFise "zumm5txt) fise
